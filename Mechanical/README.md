@@ -1,3 +1,3 @@
 # Triton Project : Mechanical
 
-![Alt text](/imgs/to/labeledDrawing.png)
+![Alt text](/imgs/labeledDrawing.png)
