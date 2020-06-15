@@ -1,10 +1,12 @@
 # Triton Project
 
-![Alt text](./Mechanical/imgs/githubCover.png)
+<!-- ![Alt text](./Mechanical/imgs/githubCover.png) -->
+<img src="./Mechanical/imgs/githubCover.png" width="50%" height="50%">
 
-Hello, welcome to the Triton Project. The Triton Project is an open source 3D printable headset that uses off the shelf hardware to achieve advanced augmented reality.
+Hello, welcome to the Triton Project. The Triton Project is an open source headset that uses existing 
+technology to achieve advanced augmented reality.
 
-Offical website here: https://leap-27.github.io/TritonProject-Guide/
+Triton website here: https://leap-27.github.io/TritonProject-Guide/
 
 Assembly Instructions here: https://leap-27.github.io/TritonProject-Guide/mechanical.html
 
